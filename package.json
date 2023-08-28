@@ -1,0 +1,16 @@
+{
+  "name": "express_functionalities",
+  "version": "1.0.0",
+  "description": "This express project is for practice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Arunava Ghosh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "hbs": "^4.2.0"
+  }
+}
